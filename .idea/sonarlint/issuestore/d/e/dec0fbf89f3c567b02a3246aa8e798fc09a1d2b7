@@ -1,0 +1,8 @@
+
+Bsquid:S1068"+Remove this unused "married" private field.(Τ“›”
+msquid:S1450"VRemove the "married" field and declare it as a local variable in the relevant methods.(Τ“›”
+nsquid:S1450"RRemove the "age" field and declare it as a local variable in the relevant methods.(Ζ†΄¦ώÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Υ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(έθ†ύÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(κ»ƒ
+Csquid:S1068"'Remove this unused "age" private field.(Ζ†΄¦ώÿÿÿÿ

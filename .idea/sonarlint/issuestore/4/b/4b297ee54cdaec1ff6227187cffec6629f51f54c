@@ -1,0 +1,5 @@
+
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù§ºD
+Vsquid:S1481"3Remove this unused "myPDFText2HTML" local variable.(±¼Ÿˆøÿÿÿÿ8À·ú±Š.
+esquid:S1854"BRemove this useless assignment to local variable "myPDFText2HTML".(±¼Ÿˆøÿÿÿÿ8À·ú±Š.
+nsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(¦‘ìüüÿÿÿÿ8õäú±Š.

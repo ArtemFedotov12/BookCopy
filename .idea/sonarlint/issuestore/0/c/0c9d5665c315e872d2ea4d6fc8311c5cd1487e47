@@ -1,0 +1,7 @@
+
+fsquid:S5361("HReplace this call to "replaceAll()" by a call to the "replace()" method.(ö±ğ‹8ÅË§¦Š.
+wsquid:UselessImportCheck"GRemove this unused import 'org.apache.commons.lang3.StringEscapeUtils'.(âŞÔŞÿÿÿÿÿ8Î±¾†Š.
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(­­…8Î±¾†Š.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì¼ƒ¡ûÿÿÿÿ
+ksquid:S5361'"HReplace this call to "replaceAll()" by a call to the "replace()" method.(å„™´øÿÿÿÿ8ÅË§¦Š.

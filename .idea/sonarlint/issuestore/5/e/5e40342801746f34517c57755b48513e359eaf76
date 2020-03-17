@@ -1,0 +1,5 @@
+
+lsquid:S3551"IMake this method "synchronized" to match the parent class implementation.(á»±àÿÿÿÿÿ8àû•¹ÿ-
+Asquid:S1165"Make this "cause" field final.(Ï“Ç÷øÿÿÿÿ8àû•¹ÿ-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Áä‚€
+]squid:S1161":Add the "@Override" annotation above this method signature(á»±àÿÿÿÿÿ8àû•¹ÿ-

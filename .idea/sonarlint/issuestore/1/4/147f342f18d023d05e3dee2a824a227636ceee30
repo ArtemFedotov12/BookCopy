@@ -1,0 +1,6 @@
+
+vsquid:UselessImportCheck"FRemove this unused import 'com.start.examples.test20ExceptionUtf.Exc'.(Ğ âøÿÿÿÿ8óÛ¾õ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ«àºşÿÿÿÿ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(û¡¹Ïÿÿÿÿÿ8Æ»õ-
+Fsquid:S1148
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Æ»õ-

@@ -1,0 +1,4 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÈôöıÿÿÿÿ
+hsquid:S1854"ERemove this useless assignment to local variable "baseExceptionType".(ÕÓ¹ßüÿÿÿÿ8×æâ†.
+Ysquid:S1481"6Remove this unused "baseExceptionType" local variable.(ÕÓ¹ßüÿÿÿÿ8×æâ†.

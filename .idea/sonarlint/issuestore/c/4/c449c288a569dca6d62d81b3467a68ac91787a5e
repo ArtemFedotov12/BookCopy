@@ -1,0 +1,5 @@
+
+osquid:S2095"LUse try-with-resources or close this "COSInputStream" in a "finally" clause.(ÔòÙƒøÿÿÿÿ8«áÖÞ‡.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ¿”ªüÿÿÿÿ
+esquid:S1854"BRemove this useless assignment to local variable "xmlInputStream".(ÔòÙƒøÿÿÿÿ8º¤ÖÞ‡.
+Vsquid:S1481"3Remove this unused "xmlInputStream" local variable.(ÔòÙƒøÿÿÿÿ8º¤ÖÞ‡.

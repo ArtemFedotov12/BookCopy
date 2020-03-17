@@ -1,0 +1,10 @@
+
+Usquid:S1481"2Remove this unused "streetAddress" local variable.(ë´ ˜ýÿÿÿÿ8åï¥Ÿò-
+Ksquid:S1481"(Remove this unused "age" local variable.( šÊ„ùÿÿÿÿ8åï¥Ÿò-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…áå‚ûÿÿÿÿ8¨²Õžò-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ¤Å°
+Nsquid:S1481"0Remove this unused "phoneNumber" local variable.(ÛôÎ”8ˆ–¿Ÿò-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8œÚºŸò-
+Ksquid:S1481".Remove this unused "firstName" local variable.(Ô½î$8åï¥Ÿò-
+Psquid:S1481"-Remove this unused "lastName" local variable.(çä“°þÿÿÿÿ8åï¥Ÿò-
+Gsquid:S1481")Remove this unused "city" local variable.(à‹íé8åï¥Ÿò-

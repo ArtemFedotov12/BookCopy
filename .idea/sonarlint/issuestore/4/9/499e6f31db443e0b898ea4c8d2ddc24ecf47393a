@@ -1,0 +1,7 @@
+
+\squid:S1854
+">Remove this useless assignment to local variable "arrayDeque".(ß¢Ï8øÜ¡ş‹.
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8øÜ¡ş‹.
+Msquid:S1481
+"/Remove this unused "arrayDeque" local variable.(ß¢Ï8øÜ¡ş‹.
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8øÜ¡ş‹.

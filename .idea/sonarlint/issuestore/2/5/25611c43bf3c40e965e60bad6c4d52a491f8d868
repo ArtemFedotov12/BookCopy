@@ -1,0 +1,7 @@
+
+jsquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8åçû€.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡é‹ıúÿÿÿÿ
+vsquid:UselessImportCheck"FRemove this unused import 'com.start.examples.test20ExceptionUtf.Exc'.(Ğ âøÿÿÿÿ8Š—øâ†.
+©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8Š—øâ†.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Š—øâ†.

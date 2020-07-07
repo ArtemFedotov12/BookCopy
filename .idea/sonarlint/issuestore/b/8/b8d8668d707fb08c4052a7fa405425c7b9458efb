@@ -1,4 +1,7 @@
 
-Isquid:S1481"&Remove this unused "k" local variable.(¯Õš¾ıÿÿÿÿ8„’ãˆ.
-vsquid:UselessImportCheck"FRemove this unused import 'com.start.examples.test20ExceptionUtf.Exc'.(Ğ âøÿÿÿÿ8ªçË—ô-
-Xsquid:S1854"5Remove this useless assignment to local variable "k".(¯Õš¾ıÿÿÿÿ8„’ãˆ.
+X	java:S125"<This block of commented-out lines of code should be removed.(¶·Íë8‘·®®›.
+h
+java:S1128"FRemove this unused import 'com.start.examples.test20ExceptionUtf.Exc'.(Ğ âøÿÿÿÿ8Œ—¥®›.
+Y
+java:S1128"7Remove this unused import 'javax.jws.soap.SOAPBinding'.(î¶âÑûÿÿÿÿ8•¦®›.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×Ÿıÿÿÿÿÿ8¿Œ¬®›.

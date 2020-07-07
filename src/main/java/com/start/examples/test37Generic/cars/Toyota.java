@@ -1,0 +1,14 @@
+package com.start.examples.test37Generic.cars;
+
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
+
+@ToString
+@Getter
+@Setter
+@NoArgsConstructor
+public class Toyota  extends Car{
+    String name = "toyota!";
+}

@@ -1,0 +1,16 @@
+<ROOT>
+    <!-- The Version tag is used to define the user and the version of the feed -->
+    <Version>
+        <!-- The numerical user id. {Mandatory} -->
+        <UserId>103999ll</UserId>
+        <!-- Version information about the plugin creating the feed. Each extension displays properly the revision of the plugin and revision of core, build datetime.
+
+    {Mandatory} -->
+        <PluginVersion>WordPress 4.2.2, WooCommerce 2.3.11, bidorbuy Store Integrator 2.1199.183 20151029131625</PluginVersion>
+
+        <!-- Schema version - defines the version of the Products schema - default is 1.00 -->
+        <SchemaVersion>1.00</SchemaVersion>
+        <!-- The timestamp the file was created - should include time-zone information {Mandatory} -->
+        <ExportCreated>2002-05-30T09:30:10-06:00ll</ExportCreated>
+    </Version>
+</ROOT>
